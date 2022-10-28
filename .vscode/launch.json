@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/sierrapine/Desktop/WSU/previous semesters/spring 2022/cpts 122/programming assignments/PA9",
+      "program": "/Users/sierrapine/Desktop/WSU/previous semesters/spring 2022/cpts 122/programming assignments/PA9/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
